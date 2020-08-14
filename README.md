@@ -1,5 +1,8 @@
 # vue-modal-v1
 
+#### The code in this repo is written to be helpful in superficially understanding the fundamental VueJS concept namely `Custom events using the $emit()` 
+#### The second use of this repo can be made to understand transitions as this is a fully functional example of `Modal`
+
 ## Project setup
 ```
 npm install
